@@ -28,6 +28,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: "~/plugins/quasar.ts", ssr: false }
   ],
   /*
   ** Nuxt.js modules

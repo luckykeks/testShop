@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <q-btn label="TAP ME PETROVI4" push color="primary"/>
       <h1 class="title">
         kid-shop-ui
       </h1>
