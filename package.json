@@ -24,7 +24,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "nodemon": "^1.18.9",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
